@@ -6,4 +6,5 @@ for i in change:
     count += money//i
     money = money%i
     
+    
 print('총 필요한 동전 개수는 '+str(count)+'개 입니다.')
